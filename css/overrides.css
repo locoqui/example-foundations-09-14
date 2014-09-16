@@ -7,3 +7,9 @@ h1 {
 h2 {
 	color: blue;
 }
+p {
+	color: black;
+}
+li {
+	list-style: none;
+}
